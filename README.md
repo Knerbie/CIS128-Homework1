@@ -1,4 +1,4 @@
-# CIS128-Repo
+# CIS128-Homework1
 
 * index.html - The HTML page containing my work for homework assignment #1.
 * styles.css- The CSS file containing my styles.
